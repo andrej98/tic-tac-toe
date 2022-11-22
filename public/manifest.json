@@ -1,0 +1,15 @@
+{
+	"short_name": "Tic Tac Toe",
+	"name": "Tic Tac Toe",
+	"icons": [
+		{
+			"src": "/grid.svg",
+			"type": "image/svg+xml",
+			"sizes": "48x48 192x192 512x512"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#f2d45c",
+	"background_color": "#121212"
+}
